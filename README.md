@@ -1,1 +1,1 @@
-# https-303seaotter.github.io
+# 303seaotter.github.io
